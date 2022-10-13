@@ -8,7 +8,7 @@ email_password = input("Enter your app password: ")
 
 email_reciver = input("Enter the mail reciver: ")
 
-subjet = input("Enter your subject:")
+subjet = input("Enter your subject")
 body = input("Enter the content: ")
 
 em = EmailMessage()
